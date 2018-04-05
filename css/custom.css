@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+}
+
+.fiberinsightcolor{
+    color: #FF6515;
+}
+
+.dropshadowclass{
+    text-shadow: 1px 1px #FF6515;
+}
+
+.custombuttoncolor {
+    background-color: darkorange;
+    color: darkorange;
+    background: orange;
+}
+
+.titletextcustom {
+    text-shadow: 2px 2px #FF6515
+}
+
+.applemusicstyleboldtext {
+    text-emphasis: bold;
+    font-family: 'San Francisco',  Fallback, 'Open Sans';
+    font-weight: 600;
+}
+
+.logoFont {
+    font-size: 200%
+    font-family: 'San Francisco', Fallback, 'Open Sans';
+    font-weight: 700;
+    text-emphasis: bold;
+}
+
+.extraheightplease {
+    height: 20%;
+}
+
