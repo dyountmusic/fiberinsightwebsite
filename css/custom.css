@@ -22,7 +22,7 @@
     text-shadow: 2px 2px #FF6515
 }
 
-.applemusicstyleboldtext {
+.boldtext {
     text-emphasis: bold;
     font-family: 'San Francisco',  Fallback, 'Open Sans';
     font-weight: 600;
@@ -37,5 +37,15 @@
 
 .extraheightplease {
     height: 20%;
+}
+
+.card {
+    max-width: 50%;
+    box-shadow: .25s;
+    background-color: white;
+    position: relative;
+    margin: 0;
+    transition: box-shadow .25s;
+    border-radius: 2px;
 }
 
